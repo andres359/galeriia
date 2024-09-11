@@ -33,3 +33,12 @@
     color: rgb(70, 54, 78);
     font-family: "Playwrite CU", cursive;
  }
+.celular{
+   height: 30px;
+   color: black;
+}
+.button-wasapp img{ 
+   display: inline-block;
+   width: 300px;
+   align-content: space-around;
+}
