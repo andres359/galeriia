@@ -40,5 +40,42 @@
 .button-wasapp img{ 
    display: inline-block;
    width: 300px;
-   align-content: space-around;
+   
+}
+h2{ 
+   text-align: center;
+   font-size: 100px;
+   color: brown;
+}
+.botonescontacto{
+   display: flex;
+   justify-content: space-around;
+   
+}
+.botonface{display: flex;
+   justify-content: center;
+}
+.yo{
+   text-align: center;
+   color: blue;
+}
+.descripcion{
+   text-align:center;
+   font-size: xx-large;
+   color: coral;
+}
+.formulario{
+   display: flex;
+   justify-content: end;
+   font-size: 100px;
+   color: darkmagenta;
+}
+.formulario input{
+  height: 100px;
+   width: 500px; 
+}
+textarea{
+   height: 100px;
+   width: 500px;
+   margin-top: 36px;
 }
